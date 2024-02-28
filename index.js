@@ -26,7 +26,6 @@ const returnFirstTwoDrivers = function(drivers) {
     return func(drivers);
   };
   
-  const drivers = ['John', 'Jane', 'Bob', 'Alice'];
-  
+   
  
   
